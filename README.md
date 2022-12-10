@@ -1,1 +1,1 @@
-# Future-Collars-zadanie-1-podstawy-HTML
+# Future-Collars-podstawy-HTML-Zadanie-1
